@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "name": "beemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kvzivn/beemo",
+  "author": "kvzivn <hello@kevinivan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
+}
